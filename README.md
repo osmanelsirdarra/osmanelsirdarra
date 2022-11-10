@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @osmanelsirdarra
 - 👀 I’m interested in asp.net mvc seenity 
-- 🌱 I’m currently learning it
-- 💞️ I’m looking to collaborate on all subjects related to serenity
-- 📫 How to reach me my email
+- 🌱 I’m currently learning it with react
+- 💞️ I’m looking to collaborate on all subjects related to them
+- 📫 How to reach me  
 
 <!---
 osmanelsirdarra/osmanelsirdarra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
